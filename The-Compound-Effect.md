@@ -93,8 +93,19 @@ Chapter keempat judulnya momentum.
 
 Dibuku ini ada yang namanya the big mo.
 Kalau kita bisa menjaga perilaku baik dalam jangka waktu yang cukup lama, kemungkinan besar kita akan masuk kedalam ritme yang alami secara konsisten.
-saat kita sudah mengikuti ritme ini, kita akan terus membuat keputusan yang lebih baik.
-Kita juga bisa mengatasi rintangan-rintangan yang biasanya kita gak bisa, misalnya pengen menunda-nunda.
+Saat kita sudah mengikuti ritme ini, kita akan terus membuat keputusan yang lebih baik.
+
+Kalau sudah mulai jangan berhenti. Jika berhenti kita bukan saja kehilangan semua kerja keras sebelumnya, tapi kita juga kehilangan momentum.
+
+Konsistensi dan ketekungan adalah penghasil efek compound.
+
+Dibuku ini daren mencontohkan,
+
+Dipagi hari dia merefleksi diri dengan 3 hal yang disyukuri. lalu memvisualisasikan apa yang mau dicapai dihari itu.
+Lalu buat 3 aksi nyata untuk mewujudkannya.
+
+Lalu retrospeksi dimalam hari tentang apa yang dilakukannya hari ini. refleksikan apa yang dipelajari dihari ini.
+Apa yang bisa membuat hari esok jadi lebih baik.
 
 <!-- TODO: Bikin contoh cerita -->
 
@@ -123,7 +134,7 @@ Bagaimana caranya menjaga informasi yang masuk?
 
 ### Action Step
 
-- Identifikasi pengaru meda dan informasi didalam hidup kita. Identifikasi cara untuk memproteksi dari informasi negatif.
+- Identifikasi pengaruh media dan informasi didalam hidup kita. Identifikasi cara untuk memproteksi dari informasi negatif.
 - evaluasi asosiasi saat ini. Mana yang harus dihentidan atau dibatasi? lalu bagai mana kita memperluas pertemanan yang baik.
 - identifikasi 3 hal yang paling kita fokusin untuk diimprove. cari mentor disetiap area tersebut. 
 
@@ -140,6 +151,10 @@ Semua orang mungkin menghadapi masalah yang sama, tapi kebanyakan dari mereka me
 Berdiri dan keluarlah, lakukan hal hal yang tidak terduga. carilah sebanyak mungkin peluang yang mengejutkan.
 Ambil aksi yang luar biasa. Manfaatkan compound efek dan kita akan menemukan cara untuk memulai pendapatan, kehidupan dan kesuksesan.
 
+Misalnya, Kalau kita sudah rutin berolah raga dipagi hari dan kita pikir kita hanya kuat push up sebanyak 50 kali.
+Coba paksakan diri kamu untuk menambahkan 20 kali lagi. Dengan cara seperti ini kita bisa menembuat ambang batas yang baru.
+
+
 ### Action Step
 
 - Identifikasi waktu ketika kita mencapai moment of truth dan berkomitmen untuk sampai disana.
@@ -148,6 +163,8 @@ Ambil aksi yang luar biasa. Manfaatkan compound efek dan kita akan menemukan car
 - Identifikasi 3 cara dimana kita bisa melakukan hal-hal yang tak terduga. Temukan perbedaan antara umum, normal dan expected.
 
 ## Lesson Learn
+
+Kita tidak bisa mengubah hidup kita hingga rutinitas kita berubah.
 
 1. Terima kekuatan compounding
 2. Buat dan track pilihan pilihan secara sadar
