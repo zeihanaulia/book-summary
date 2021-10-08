@@ -8,8 +8,8 @@ https://go.darrenhardy.com/the-compound-effect-resources/
 
 Chapter pertama judulnya The Compound Effect in Action.
 
-Compound efek itu adalah Pilihan-pilihan yang kecil tapi bagus, efektif dan dilakukan secara konsisten.
-Dan dipilih secara sadat bukan autopilot.
+Compound efek itu adalah pilihan-pilihan yang kecil yang baik, efektif dan dilakukan secara konsisten.
+Dan dipilih secara sadar bukan autopilot.
 
 ```
 SMALL, SMART CHOICES + CONSISTENCY + TIME = RADICAL DIFFERENCE
@@ -17,16 +17,16 @@ SMALL, SMART CHOICES + CONSISTENCY + TIME = RADICAL DIFFERENCE
 
 > Kalian pilih yang mana? dapet uang 3 juta dolar didepan atau 1 sen yang berlipat ganda selama 30 hari.
 
-Jika kita pilih 3 juta didepan, ya sudah tidak ada penambahan lagi dihari hari berikutnya.
+Jika kita pilih 3 juta didepan, ya sudah tidak akan ada penambahan lagi dihari hari berikutnya.
 Tapi jika kita pilih 1 sen yang berlipat ganda kita akan mendapat total lebih dari 10juta di hari ke 30.
 
 Jika pilihan yang kecil dibuat secara konsisten maka akan menghasilkan sesuatu yang besar.
 
 Misalnya seperti pada cerita kura-kura dan kelinci.
 
-Taukan yang akhirnya yang menang si kura kura yang lambat.
+Taukan yang akhirnya siapa? ya, yang menang adalah si kura kura yang lambat.
 
-Kura kura memang pelan, tapi dia konsisten selangkah demi selangkah berjalan hingga tujuan.
+Kura-kura memang pelan, tapi dia konsisten selangkah demi selangkah berjalan hingga sampai tujuan.
 Sedangkan kelinci yang cepat tapi tidak fokus sehingga tidak pernah sampai ke tujuan.
 
 ### Action Step
@@ -38,7 +38,7 @@ Sedangkan kelinci yang cepat tapi tidak fokus sehingga tidak pernah sampai ke tu
 
 ## Choices
 
-Chapter kedua judulnya Choices atau pilihan.
+Chapter kedua judulnya Choices atau pilihan-pilihan.
 
 Semua dimulai dari sebuah pilihan.
 
@@ -52,6 +52,9 @@ Jawabannya adalah berhenti hidup dengan autopilot dan mulai keputusan dengan sad
 Ingat keberuntungan adalah Preparation + Attitude + Opportunity + Action.
 
 > How? “You can’t manage what you can’t measure,” so choose to start tracking every action in the part of life that you’re focussing on.
+
+Lalu, bagaimana kita bisa mengatur sesuatu yang kita gak bisa ukur?
+Ya pilihannya kita bisa mulai melakukan "tracing" dari setiap aksi yang paling kita fokusin.
 
 Contoh,
 
@@ -75,8 +78,7 @@ Misalnya kita ingin menurunkan berat badan, caranya:
 
 Chapter ketiga judulnya habits atau kebiasaan.
 
-Membuat habit baru memang membutuhkan waktu, sabar dengan diri sendiri. 
-Jika kita gagal jangan menyalahkan diri sendiri atau siapapun dan kembalilah dan coba lagi.
+Membuat habit baru memang membutuhkan waktu, sabar dengan diri sendiri.  Jika kita gagal jangan menyalahkan diri sendiri atau siapapun. Mulai coba kembali.
 
 Bagaimana kita mengambil tanggung jawab akan habit kita?
 
@@ -95,16 +97,16 @@ Dibuku ini ada yang namanya the big mo.
 Kalau kita bisa menjaga perilaku baik dalam jangka waktu yang cukup lama, kemungkinan besar kita akan masuk kedalam ritme yang alami secara konsisten.
 Saat kita sudah mengikuti ritme ini, kita akan terus membuat keputusan yang lebih baik.
 
-Kalau sudah mulai jangan berhenti. Jika berhenti kita bukan saja kehilangan semua kerja keras sebelumnya, tapi kita juga kehilangan momentum.
+Kalau sudah mulai, jangan berhenti. Jika berhenti kita bukan saja kehilangan semua kerja keras sebelumnya, tapi kita juga kehilangan momentum.
 
-Konsistensi dan ketekungan adalah penghasil efek compound.
+Konsistensi dan ketekunan adalah penghasil efek compound.
 
 Dibuku ini daren mencontohkan,
 
 Dipagi hari dia merefleksi diri dengan 3 hal yang disyukuri. lalu memvisualisasikan apa yang mau dicapai dihari itu.
 Lalu buat 3 aksi nyata untuk mewujudkannya.
 
-Lalu retrospeksi dimalam hari tentang apa yang dilakukannya hari ini. refleksikan apa yang dipelajari dihari ini.
+Lalu retrospeksi dimalam hari tentang apa yang dilakukannya hari ini. Refleksikan apa yang dipelajari dihari ini.
 Apa yang bisa membuat hari esok jadi lebih baik.
 
 <!-- TODO: Bikin contoh cerita -->
@@ -112,7 +114,7 @@ Apa yang bisa membuat hari esok jadi lebih baik.
 ### Action Step
 
 - Bikin list dimalam hari dan morning routines.
-- List 3 hal dimana lu gak cukup consisten.
+- List 3 hal dimana lo gak cukup konsisten.
 
 ## Influences
 
